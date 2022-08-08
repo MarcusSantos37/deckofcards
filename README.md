@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `yarn dev`
 
-Starts a local web server with HMR for development.\
+Starts a local web server with HMR for development.
 
 Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
 
